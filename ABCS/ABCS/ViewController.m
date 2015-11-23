@@ -21,7 +21,7 @@
     
     NSLog(@"i am happy");
     
-    
+     NSLog(@"i am happy");
 }
 
 - (void)didReceiveMemoryWarning {
