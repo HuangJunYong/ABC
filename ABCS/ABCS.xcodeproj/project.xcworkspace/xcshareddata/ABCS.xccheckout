@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>06F38885-27D3-4361-9FD4-570C0875703F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>ABCS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5CC16EB9DEE994A638FEAA74FC1E3C2193ACC6E8</key>
 		<string>https://github.com/HuangJunYong/ABC.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ABCS/ABCS.xcodeproj/project.xcworkspace</string>
+	<string>ABCS/ABCS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5CC16EB9DEE994A638FEAA74FC1E3C2193ACC6E8</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/HuangJunYong/ABC.git</string>
@@ -28,14 +28,6 @@
 	<string>5CC16EB9DEE994A638FEAA74FC1E3C2193ACC6E8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5CC16EB9DEE994A638FEAA74FC1E3C2193ACC6E8</string>
-			<key>IDESourceControlWCCName</key>
-			<string></string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
